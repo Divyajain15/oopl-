@@ -13,7 +13,6 @@ public class MethodCalling{
         int product = obj.multiply(10, 5);
         System.out.println("Sum = " + sum);
         System.out.println("Product = " + product);
-        
 
     }
 }
